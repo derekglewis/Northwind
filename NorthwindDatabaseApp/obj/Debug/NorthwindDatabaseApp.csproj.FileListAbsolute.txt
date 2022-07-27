@@ -1,0 +1,16 @@
+C:\Users\Derek\source\repos\NorthwindDatabaseApp\bin\Debug\NorthwindDatabaseApp.exe.config
+C:\Users\Derek\source\repos\NorthwindDatabaseApp\bin\Debug\NorthwindDatabaseApp.exe
+C:\Users\Derek\source\repos\NorthwindDatabaseApp\bin\Debug\NorthwindDatabaseApp.pdb
+C:\Users\Derek\source\repos\NorthwindDatabaseApp\obj\Debug\NorthwindDatabaseApp.csproj.AssemblyReference.cache
+C:\Users\Derek\source\repos\NorthwindDatabaseApp\obj\Debug\NorthwindDatabaseApp.formDatabaseViewer.resources
+C:\Users\Derek\source\repos\NorthwindDatabaseApp\obj\Debug\NorthwindDatabaseApp.Properties.Resources.resources
+C:\Users\Derek\source\repos\NorthwindDatabaseApp\obj\Debug\NorthwindDatabaseApp.csproj.GenerateResource.cache
+C:\Users\Derek\source\repos\NorthwindDatabaseApp\obj\Debug\NorthwindDatabaseApp.csproj.CoreCompileInputs.cache
+C:\Users\Derek\source\repos\NorthwindDatabaseApp\obj\Debug\NorthwindDatabaseApp.exe
+C:\Users\Derek\source\repos\NorthwindDatabaseApp\obj\Debug\NorthwindDatabaseApp.pdb
+C:\Users\Derek\source\repos\NorthwindDatabaseApp\bin\Debug\EntityFramework.dll
+C:\Users\Derek\source\repos\NorthwindDatabaseApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Derek\source\repos\NorthwindDatabaseApp\bin\Debug\EntityFramework.xml
+C:\Users\Derek\source\repos\NorthwindDatabaseApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Derek\source\repos\NorthwindDatabaseApp\obj\Debug\NorthwindDatabaseApp.csproj.CopyComplete
+C:\Users\Derek\source\repos\NorthwindDatabaseApp\obj\Debug\NorthwindDatabaseApp.CustomersForm.resources
